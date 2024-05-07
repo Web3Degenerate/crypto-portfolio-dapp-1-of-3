@@ -1,8 +1,43 @@
-.App {
-  text-align: center;
+body, html{
+  margin: 0;
+  padding: 0;
+  background-color: #06111d;
+  color: #fff;
 }
 
-.App-logo {
+.App {
+  text-align: center;
+  margin: 20px 160px;
+}
+
+table {
+  width: 100%;
+}
+
+th, td {
+  text-align: left;
+  padding: 14px 8px;
+  border-bottom: 1px solid #ddd;
+}
+
+/* th {
+
+} */
+
+.asset-logo {
+  width: 40px;
+  height: 40px;
+}
+
+.positive {
+  color: #4fbf67;
+}
+
+.negative {
+  color: #ff5c5c;
+}
+
+/* .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
@@ -35,4 +70,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */

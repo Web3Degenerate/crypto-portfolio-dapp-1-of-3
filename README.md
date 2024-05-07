@@ -1,3 +1,22 @@
+
+
+
+
+## Set up App
+
+- At [(2:35)](https://youtu.be/doEBbQklDUE?si=T4DwYo9s0l32qPXv&t=155) run the following command: 
+
+```js
+
+npm create-react-app portfolio-dapp
+
+```
+
+
+
+---
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
