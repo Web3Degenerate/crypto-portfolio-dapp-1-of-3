@@ -13,7 +13,6 @@ npm create-react-app portfolio-dapp
 ```
 
 
-
 ---
 ---
 
@@ -87,3 +86,20 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### Git Commands For Existing Repository
+
+1. `git init`
+
+2. `git add .` 
+
+3. `git commit -m "Initial commit"`
+
+4. Set up the repository on github without a README
+
+5. `git remote add origin <repository_url.git>`
+
+6. `git branch -M main`
+
+7. `git push -u origin main`
