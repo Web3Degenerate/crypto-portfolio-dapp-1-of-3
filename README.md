@@ -8,7 +8,7 @@
 
 ```js
 
-npm create-react-app portfolio-dapp
+npx create-react-app portfolio-dapp
 
 ```
 
